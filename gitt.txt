@@ -1,0 +1,23 @@
+Um commit é o ato de enviar e guardar, ou seja, enviar dados ou códigos para armazenamento em um banco de dados ou em um sistema de controle de versão.
+
+Branch, em tradução literal, significa “ramo”. No mundo da programação, ela tem o mesmo significado: uma branch é uma ramificação do seu projeto.
+
+Merge é quando "fundimos duas branchs", pegamos todo o código de uma branch e pedimos ao git para adicionar esse código a outra branch. 
+
+mainline linha de desenvolvimento principal de um projeto de software 
+
+clone Ele tem como principal proposta clonar todos os arquivos de repositório remoto para um repositório local. 
+
+push  é usado para enviar o conteúdo do repositório local para um repositório remoto
+
+pull serve para recuperar e baixar o conteúdo de um repositório remoto e atualizar o repositório local assim que ele for baixado
+
+add pode ser utilizado para adicionar os arquivos ignorados com a opção -f (impor).
+
+staged você marcou um arquivo modificado em sua versão atual para ir para seu próximo instantâneo de commit.
+
+Version; interaçao especific de um projeto 
+
+Repository. onde o codigo fica armazenado 
+
+
